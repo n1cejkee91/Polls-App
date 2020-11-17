@@ -12,7 +12,8 @@ Ended poll only shows user the final result of the poll.
 
 <p>2) Run the program in local server</p>
 <code>python manage.py runserver</code>
-<p>Then go to http://127.0.0.1:8000 in your browser</p>
+
+<p>3) Go to http://127.0.0.1:8000 in your browser</p>
 
 <h2>To use admin panel</h2>
 <p>Login: admin ; Password: admin </p>
